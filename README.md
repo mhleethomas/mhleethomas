@@ -5,3 +5,4 @@
 - 📫 How to reach me: You can email me at **mhleethomas@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/mhleethomas).  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I enjoy **photography, music, and movies** and love finding creative ways to connect my hobbies with my technical projects.  
+- 📝 To-do project: Spotify listening history analysis
