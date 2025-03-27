@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mhleethomas  
+- 👋 Hi, I’m @mhleethomas
+- [My Personal Website](https://mhleethomas.github.io)
 - 👀 I’m interested in **Antificial Intelligence, Machine Learning, and Data Science.** I’m passionate about solving real-world problems through technology and making data-driven decisions.  
 - 🌱 I’m currently learning **advanced algorithms, deep learning frameworks, and cloud computing for scalable AI applications.**  
 - 💞️ I’m looking to collaborate on **innovative AI/ML projects, open-source initiatives, and building impactful applications.**  
